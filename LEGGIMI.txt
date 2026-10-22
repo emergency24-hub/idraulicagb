@@ -1,0 +1,16 @@
+IDRAULICA G.B. — INSTALLAZIONE E GESTIONE
+
+Carica tutti i file e la cartella assets nella directory pubblica del tuo hosting.
+La pagina iniziale è index.html. Non sono necessarie compilazione, librerie esterne o installazioni.
+
+I dati aziendali sono configurati nell'oggetto COMPANY all'inizio di script.js.
+L'indirizzo email presente nel pacchetto ricevuto è stato mantenuto: info@idraulicagb.xyz.
+La partita IVA è quella riportata nel sito aziendale precedente: 04085880120.
+La grafica del logo è contenuta in assets/logo.webp.
+
+Il sito non contiene moduli di contatto, prezzi, testimonianze, statistiche o lavori attribuiti all'attività.
+Le fotografie sono quelle fornite per il progetto.
+
+Verifiche effettuate: sintassi JavaScript, file e immagini, collegamenti interni e aggiornamento centralizzato dei contatti.
+Verifiche ancora necessarie al rilascio: controllo visivo sui dispositivi e corrispondenza della pagina privacy con il servizio di hosting effettivo.
+La pubblicazione sul dominio aziendale non è stata effettuata.
